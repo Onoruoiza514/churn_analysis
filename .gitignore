@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.env/
+
+# Logs
+logs/*.log
+
+# Data files
+data/raw/
+data/processed/
+
+# Jupyter
+#.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
